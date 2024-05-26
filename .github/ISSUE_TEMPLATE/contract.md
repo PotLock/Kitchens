@@ -1,18 +1,16 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: "[FEATURE]"
-labels: feature-request
+name: Contract
+about: Smart contract suggestion
+title: "[FEATURE] | (CONTRACT)"
+labels: contract, feature-request
 assignees: ''
 
 ---
 
 # Problem
 - 
-
 # Description
-Description of solution
-
+-
 # User Story(s):
  As a _______, I want to ____, so that I can
 
@@ -21,7 +19,6 @@ Description of solution
 
 # Limitations 
 -
-
 
 # Resources
 -
